@@ -1,5 +1,5 @@
-from database import *
-from clean import *
+from project_automation.database import *
+from project_automation.clean import *
 
 db_config = {
         'dbname': 'mydb',
